@@ -1,0 +1,3 @@
+[submodule "CodeDweller"]
+	path = CodeDweller
+	url = https://code.microneil.com/madscientist/CodeDweller.git
